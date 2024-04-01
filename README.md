@@ -35,5 +35,5 @@ Kafka-producer (micro service 1)  ----> Kafka broker ----> Kafka-consumer-DB (mi
 
 4.consumer setup and config
 
-
+5.consumer log the real time data from the broker
 
