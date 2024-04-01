@@ -33,3 +33,7 @@ Kafka-producer (micro service 1)  ----> Kafka broker ----> Kafka-consumer-DB (mi
 
 
 
+4.consumer setup and config
+
+
+
