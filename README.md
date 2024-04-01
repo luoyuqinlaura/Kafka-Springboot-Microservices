@@ -37,3 +37,9 @@ Kafka-producer (micro service 1)  ----> Kafka broker ----> Kafka-consumer-DB (mi
 
 5.consumer log the real time data from the broker
 
+
+
+6.config database: create db -> add spring data jpa(by default hibernate as jpa provide) & mysql driver dependencies
+
+
+
